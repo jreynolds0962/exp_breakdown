@@ -61,7 +61,7 @@ print(expense_distribution, "will go to each store")
 
 
 # 4.
-wb = load_workbook('import spreadsheet.xlsx')
+wb = load_workbook('import_spreadsheet.xlsx')
 
 
 #5 & 6
